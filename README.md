@@ -5,11 +5,11 @@
 
 ## Ausgewählte Projekte
 
-### Embernest <img src="assets/embernest.png" width="32" height="32" alt="">
+### embernest <img src="assets/embernest.png" width="32" height="32" alt="">
 
-Zieh einen Drachen auf, gestalte sein Nest und geh mit ihm auf Flug.
+Brüte ein Drachenei aus, füttere deinen Drachen und putz seine Schuppen. Wenn ihr euch vertraut, hebt ihr gemeinsam ab.
 
-[Spielen](https://emberwing.mraz.app/)
+[Im Browser spielen](https://embernest.mraz.app/) · [Gameplay auf YouTube](https://www.youtube.com/@embernest_game)
 
 ### Baby Time <img src="assets/babytime.png" width="32" height="32" alt="">
 
